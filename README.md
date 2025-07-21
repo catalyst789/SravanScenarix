@@ -4,7 +4,7 @@ A high-performance, optimized landing site for an AI art generation service buil
 
 ## 🚀 Live Demo
 
-[Please view here](https://fastidious-malasada-a94463.netlify.app/)
+[Please view here](https://aesthetic-praline-827e8a.netlify.app/)
 
 ## 🎯 Performance Optimizations
 
